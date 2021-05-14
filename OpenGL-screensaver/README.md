@@ -1,3 +1,3 @@
-# OpenGL-DVDscreensaver
+# Screensaver for anyone
 
-dvd screensaver 😲
+Nepovedlo se mi tam dát místo čtverce ten obrázek :(
